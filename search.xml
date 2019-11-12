@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>数学公式测试</title>
+      <link href="/2019/11/12/shu-xue-gong-shi-ce-shi/"/>
+      <url>/2019/11/12/shu-xue-gong-shi-ce-shi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数学公式测试"><a href="#数学公式测试" class="headerlink" title="数学公式测试"></a>数学公式测试</h1><pre class=" language-markdown"><code class="language-markdown">$$ \lim\limits<span class="token italic"><span class="token punctuation">_</span>{n\to\infty}a<span class="token punctuation">_</span></span>a=a $$</code></pre><p>$$ \lim\limits_{n\to\infty}a_a=a $$</p><p>看到上面有公式就是测试成功了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>密码测试(密码123)</title>
       <link href="/2019/11/12/mi-ma-ce-shi-mi-ma-123/"/>
       <url>/2019/11/12/mi-ma-ce-shi-mi-ma-123/</url>
