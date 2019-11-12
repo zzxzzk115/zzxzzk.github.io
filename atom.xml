@@ -2,12 +2,12 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <title>Jack&#39;s Blog</title>
   
-  
+  <subtitle>学无止境</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zhangkexuan.cn/"/>
   <updated>2019-11-12T12:30:34.088Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zhangkexuan.cn/</id>
   
   <author>
     <name>Jack张可宣</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/12/hello-world/"/>
-    <id>http://yoursite.com/2019/11/12/hello-world/</id>
+    <link href="http://zhangkexuan.cn/2019/11/12/hello-world/"/>
+    <id>http://zhangkexuan.cn/2019/11/12/hello-world/</id>
     <published>2019-11-12T10:50:06.902Z</published>
     <updated>2019-11-12T12:30:34.088Z</updated>
     
