@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhangkexuan.cn/"/>
-  <updated>2019-11-12T14:59:47.692Z</updated>
+  <updated>2019-11-13T06:44:14.089Z</updated>
   <id>http://zhangkexuan.cn/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>缩略图测试</title>
+    <link href="http://zhangkexuan.cn/2019/11/13/suo-lue-tu-ce-shi/"/>
+    <id>http://zhangkexuan.cn/2019/11/13/suo-lue-tu-ce-shi/</id>
+    <published>2019-11-13T06:40:46.125Z</published>
+    <updated>2019-11-13T06:44:14.089Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;使用&lt;a href=&quot;https://sm.ms提供的图床功能&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://sm.ms提供的图床功能&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://zhangkexuan.cn/categories/hexo/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>数学公式测试</title>
