@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhangkexuan.cn/"/>
-  <updated>2019-11-13T06:44:14.089Z</updated>
+  <updated>2019-11-13T06:49:49.718Z</updated>
   <id>http://zhangkexuan.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>摘要测试</title>
+    <link href="http://zhangkexuan.cn/2019/11/13/zhai-yao-ce-shi/"/>
+    <id>http://zhangkexuan.cn/2019/11/13/zhai-yao-ce-shi/</id>
+    <published>2019-11-13T06:49:27.244Z</published>
+    <updated>2019-11-13T06:49:49.718Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;摘要还是自定义比较好。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://zhangkexuan.cn/categories/hexo/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>缩略图测试</title>
